@@ -8,7 +8,7 @@ link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/0xOptimusPrime/hardhat-deploy-contract.git
+git clone https://github.com/CoinHuntersTR/hardhat-deploy-contract.git
 ```
 
 ```
@@ -101,8 +101,6 @@ npm run set-message
 - push this project to your github and paste your repository link in testnet dashboard
 
 by :
-github : [0xOptimusPrime](https://github.com/0xOptimusPrime)
-twitter : @0xmtnslk
-telegram : @oxmtnslk
-
-//0x13B19fd63d34Be9d3D6d25ebd7142134C0cfc725//
+github : [CoinHuntersTR](https://github.com/CoinHuntersTR)
+twitter : @CoinHuntersTR
+telegram : @CoinHuntersTR
