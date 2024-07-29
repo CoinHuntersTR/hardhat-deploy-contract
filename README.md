@@ -88,7 +88,7 @@ npm run deploy
 npm run get-message
 ```
 
-### 8. Get Message
+### 8. Set Message
 
 ```bash
 npm run set-message
